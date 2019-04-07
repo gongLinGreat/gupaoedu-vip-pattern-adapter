@@ -1,0 +1,4 @@
+
+Duck implements Comparable
+通过实现Comparable 接口，实现Arrays排序的部分方法。
+Arrays.sort(ducks);
